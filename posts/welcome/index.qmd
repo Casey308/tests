@@ -5,7 +5,7 @@ date: "2022-08-12"
 categories: [news]
 about:
   template: jolla
-    links:
+  links:
     - icon: twitter
       text: Twitter
       href: about.html
