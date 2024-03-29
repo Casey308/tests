@@ -8,6 +8,9 @@ about:
   links:
     - icon: twitter
       text: Twitter
+      href: https://twitter.com
+    - icon: twitter
+      text: Twitter
       href: about.html
 ---
 
