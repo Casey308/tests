@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "jjallaire.github.io"
+  title: "Casey308.github.io"
   navbar:
     right:
       - about.qmd
@@ -11,9 +11,5 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
-format:
-  html:
-    theme: cosmo
-    css: styles.css
 
 
