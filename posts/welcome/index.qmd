@@ -4,6 +4,7 @@ author: "Tristan O'Malley"
 date: "2022-08-12"
 categories: [news]
 about:
+  template: jolla
     links:
     - icon: twitter
       text: Twitter
