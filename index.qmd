@@ -10,3 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+This is some text.  Here is the [about](about.qmd)
