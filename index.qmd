@@ -7,13 +7,7 @@ format:
     other-links:
       - text: NASA Open Data
         href: https://data.nasa.gov/
-    code-links:
-      - text: Data Import Code
-        icon: file-code
-        href: data-import.py
 ---
-
-This is some text.  Here is the [about](about.qmd).
 
 Here is some more text [book_info.qmd](book_info.qmd).  
 
