@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "tests.github.io",
     "section": "",
-    "text": "Here is some more text book_info.qmd.\nHere is even more text data_info.qmd."
+    "text": "Here is some more text book_info.qmd.\n\n\nHere is even more text data_info.qmd."
+  },
+  {
+    "objectID": "index.html#heading-2",
+    "href": "index.html#heading-2",
+    "title": "tests.github.io",
+    "section": "",
+    "text": "Here is even more text data_info.qmd."
   },
   {
     "objectID": "book_info.html",

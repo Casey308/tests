@@ -4,12 +4,14 @@ page-layout: full
 title-block-banner: true
 format:
   html:
-    other-links:
-      - text: NASA Open Data
-        href: https://data.nasa.gov/
+    toc: true
+    toc-location: left
+    
 ---
 
+# Heading 1
+Here is some more text [book_info.qmd](book_info.qmd). 
 
-Here is some more text [book_info.qmd](book_info.qmd).  
+## Heading 2
 
 Here is even more text [data_info.qmd](data_info.qmd).
