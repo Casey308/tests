@@ -5,5 +5,12 @@
     "title": "tests.github.io",
     "section": "",
     "text": "Here is some more text book_info.qmd.\nHere is even more text data_info.qmd."
+  },
+  {
+    "objectID": "book_info.html",
+    "href": "book_info.html",
+    "title": "book-info",
+    "section": "",
+    "text": "Here is some book info."
   }
 ]
