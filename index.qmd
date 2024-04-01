@@ -2,11 +2,6 @@
 title: "tests.github.io"
 page-layout: full
 title-block-banner: true
-format:
-  html:
-    other-links:
-      - text: NASA Open Data
-        href: https://data.nasa.gov/
 ---
 
 Here is some more text [book_info.qmd](book_info.qmd).  
