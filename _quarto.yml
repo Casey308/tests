@@ -3,15 +3,16 @@ project:
   output-dir: docs
   
 website: 
-  title: "today"
+  title: "The History of Amherst College"
   navbar:
     left: 
       -  href: index.qmd
          text: Home
-      -  book_info.qmd
-      
-      
-
+      -  href: book_info.qmd
+         text: Book Info
+      -  href: data_info.qmd
+         text: Data Info
+    
 format:
   html:
     theme: cosmo
